@@ -9,7 +9,7 @@ cd Reviewer\ 3; wget https://srv-store1.gofile.io/download/IMrhtD/checkpoint.pth
 ## Reviewer 6
 The jupyter notebook `UAP_magnitude_check.ipynb` in folder `Reviewer 6` contains the perturbations and image from Figure 7 of the main paper. 
 
-Note: If one of the jupyter notebooks is not displayed, please reload.
+Note: If the jupyter notebook is not displayed, please reload or download to run for confirming the results if necessary.
 
 ## Dependencies
 ```
